@@ -1,0 +1,42 @@
+[
+    {
+        "address": "Av. Falc\u00f3n 213",
+        "email": "jaltamiranda@gmail.com",
+        "lastname": "Altamiranda",
+        "name": "Julian",
+        "password": "azulyjuanma2001",
+        "tel": "+54 9 3364379499",
+        "id": "JA32bf28b8",
+        "neighborhood": "Palermo",
+        "cards": [
+            {
+                "id": "LM27",
+                "amount": 1
+            },
+            {
+                "amount": 2,
+                "id": "NO31"
+            }
+        ]
+    },
+    {
+        "address": "Maipu 233",
+        "email": "matiaspierri@gmail.com",
+        "lastname": "Pierri",
+        "name": "Matias",
+        "password": "fulbo2022",
+        "tel": "+54 9 3364379499",
+        "neighborhood": "Belgrano",
+        "cards": [
+            {
+                "id": "TM71",
+                "amount": 2
+            },
+            {
+                "amount": 1,
+                "id": "NO31"
+            }
+        ],
+        "id": "MPc48eddb8"
+    }
+]

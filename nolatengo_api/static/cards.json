@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Lionel",
+        "lastname": "Messi",
+        "country": "ARG",
+        "birth": 551491200000,
+        "age": 35,
+        "heigth": 1.7,
+        "weight": 72,
+        "since": 2005,
+        "url": "https://figuritasqatar.com.ar/wp-content/uploads/lionel-messi.png",
+        "id": "LM27"
+    },
+    {
+        "name": "Cristian",
+        "lastname": "Romero",
+        "country": "ARG",
+        "birth": 893635200000,
+        "age": 24,
+        "heigth": 1.85,
+        "weight": 79,
+        "since": 2021,
+        "url": "https://figuritasqatar.com.ar/wp-content/uploads/cristian-romero.png",
+        "id": "CR16"
+    },
+    {
+        "name": "Nicolas ",
+        "lastname": "Otamendi",
+        "country": "ARG",
+        "birth": 571622400000,
+        "age": 34,
+        "heigth": 1.83,
+        "weight": 81,
+        "since": 2009,
+        "url": "https://figuritasqatar.com.ar/wp-content/uploads/nicolas-otamendi.png",
+        "id": "NO31"
+    },
+    {
+        "name": "Thomas",
+        "lastname": "Muller",
+        "country": "GER",
+        "birth": 621648000000,
+        "age": 33,
+        "heigth": 1.86,
+        "weight": 75,
+        "since": 2010,
+        "url": "https://figuritasqatar.com.ar/wp-content/uploads/thomas-muller.png",
+        "id": "TM71"
+    }
+]
